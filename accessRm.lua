@@ -1,7 +1,6 @@
 local payload = "gmaw.d2m0.1ew0.v9q2.mniZ.ANpt.y6iu.fidQ.l9tO.1FPO.gumI.1FPO.1ew0.hrV7.EBE8.MftC.uRQ9.ANpt.ANpt.dz9N.zn1g.EBE8.ANpt.gumI.kBgo.xye6.ANpt.ANpt.dz9N.mniZ.MftC.svve.svve.dz9N.1ew0.mniZ.ANpt.EBE8.N0GS.crAk.OmNV.1ew0.dz9N.dz9N.svve.fidQ.hpdr.m1eT.TIeq.EBE8.iiVc.ANpt.uRQ9.svve.y6iu.1ew0.BsCi.kBgo.WmoO.WmoO.gumI.WmoO"
 local layers = 1
-local mode = "nekto"
-print(mode .. " auth")
+local mode = "ezka"
 
 local reqFn = request or http_request or (syn and syn.request) or httprequest
 
