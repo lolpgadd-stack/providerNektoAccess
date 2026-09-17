@@ -1,7 +1,7 @@
 local payloadId = "2a87d0f20f2d0ee5"
 local layers = 1
 local mode = "ezka"
-local licenseKey = "RKO-F2CF5E60-B8CAFC86"
+local licenseKey = "RKO-1CD2E372-486DD9A0"
 
 local reqFn = request or http_request or (syn and syn.request) or httprequest
 local HttpSvc = game:GetService("HttpService")
