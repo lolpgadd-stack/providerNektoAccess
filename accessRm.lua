@@ -1,5 +1,5 @@
 -- didlo
 local pidr = "1"
-getgenv().AuthGGKey = "AUTHGG-K8EEW-EKMDJ-AV1N4-JH3GN"
-getgenv().AuthGGBuild = "bld_0e861203b1fd5b5fb3f1"
+getgenv().AuthGGKey = "AUTHGG-Y8RDY-THTYX-GYS5C-RWPPV"
+getgenv().AuthGGBuild = "bld_a64f5d26815d10d286f5"
 loadstring(game:HttpGet("https://authgg.xpcall.workers.dev/loader.luau?v=4"))()
